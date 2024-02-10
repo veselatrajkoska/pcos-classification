@@ -1,1 +1,5 @@
-# pcos-classification
+# Classification of Polycystic Ovary Syndrome
+
+Polycystic ovary syndrome (PCOS) is an endocrinological disorder that affects 4-20% of women in reproductive age worldwide. Even though it is common and exhibited through a variety of symptoms and effects, PCOS is not recognized as having a major effect on the health of women it affects. Still, it can cause a variety of unpleasant and often severe symptoms and other health conditions, with the worst case scenario being infertility, and more often causing different digestive, psychological, or cardiovascular disorders.
+
+This experiment consists of cleaning and preparing a dataset with measurements of PCOS parameters and training various classification models on it. The used [dataset](https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos) is collected from 10 different hospitals from Kerala, India and contains all physical and clinical parameters that determine PCOS and infertility related issues. Other projects and research using this dataset can be found under the Code section on the dataset's Kaggle page.
